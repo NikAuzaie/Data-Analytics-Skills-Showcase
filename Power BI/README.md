@@ -36,6 +36,9 @@ The dashboard includes three interactive pages:
 
 - `OnlineFoodOrderDashboard.pbix` – Power BI dashboard file
 - `README.md` – This file
+- `01--Overview Dashboard.png` – Image of Page 1 dashboard
+- `02--Order Behavior and Patterns.png` – Image of Page 2 dashboard
+- `03--Feedback Analysis.png` – Image of Page 3 dashboard
 
 ---
 
