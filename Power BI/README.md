@@ -1,5 +1,9 @@
 # 🍽️ Online Food Order Dashboard – Power BI Project
 
+![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-yellow?logo=powerbi)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner--Friendly-blueviolet)
+[![Kaggle Dataset](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset)
+
 This Power BI dashboard analyzes online food ordering behavior based on customer demographics, location, and feedback. It is built using data sourced from Kaggle:  
 🔗 [Online Food Order Dataset on Kaggle](https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset)
 
