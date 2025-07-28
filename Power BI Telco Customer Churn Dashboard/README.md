@@ -44,7 +44,6 @@
 | File                          | Description                        |
 |-------------------------------|------------------------------------|
 | `Telco_Customer_Churn.pbix`  | Power BI dashboard file            |
-| `telco_churn_raw.csv`        | Raw dataset from Kaggle            |
 
 ---
 
