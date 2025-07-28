@@ -43,7 +43,7 @@
 
 | File                          | Description                        |
 |-------------------------------|------------------------------------|
-| `Telco_Customer_Churn.pbix`  | Power BI dashboard file            |
+| `Telco customer churn Power BI Dashboard.pbix`  | Power BI dashboard file            |
 
 ---
 
